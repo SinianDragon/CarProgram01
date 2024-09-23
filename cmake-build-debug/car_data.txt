@@ -1,0 +1,430 @@
+CarID: Carnum0000000000000001B
+ChassisID: Chasislnum00000001B
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0001
+Assigned Student Name: 张霞
+---
+CarID: Carnum0000000000000002C
+ChassisID: Chasislnum00000002C
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0002
+Assigned Student Name: 杨涛
+---
+CarID: Carnum0000000000000003D
+ChassisID: Chasislnum00000003D
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0003
+Assigned Student Name: 陈伟
+---
+CarID: Carnum0000000000000004E
+ChassisID: Chasislnum00000004E
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0004
+Assigned Student Name: 郭勇
+---
+CarID: Carnum0000000000000005F
+ChassisID: Chasislnum00000005F
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0005
+Assigned Student Name: 周涛
+---
+CarID: Carnum0000000000000006G
+ChassisID: Chasislnum00000006G
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0006
+Assigned Student Name: 陈刚军
+---
+CarID: Carnum0000000000000007H
+ChassisID: Chasislnum00000007H
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0007
+Assigned Student Name: 胡洋军
+---
+CarID: Carnum0000000000000008I
+ChassisID: Chasislnum00000008I
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0008
+Assigned Student Name: 刘辉辉
+---
+CarID: Carnum0000000000000009J
+ChassisID: Chasislnum00000009J
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0009
+Assigned Student Name: 高涛
+---
+CarID: Carnum0000000000000010K
+ChassisID: Chasislnum00000010K
+Chassis Model: SCOUT MINI
+Wheelbase: 451mm
+Track Width: 490mm
+Min Ground Clearance: 115mm
+Min Turning Radius: 0m
+Drive Type: 四轮四驱
+Max Travel: 10KM
+Wheel1 Model: 公路轮
+Wheel1 Size: 175mm
+Wheel2 Model: 麦克纳姆轮
+Wheel2 Size: 175mm
+Wheel3 Model: 公路轮
+Wheel3 Size: 175mm
+Wheel4 Model: 麦克纳姆轮
+Wheel4 Size: 175mm
+AGX Model: AGX Xavier
+AI: 32 TOPS
+CUDA Core: 512
+Tensor CORE: 64
+VRAM: 32G
+Storage: 32G
+Camera Model: RealSense D435i
+Camera: D430
+RGB Resolution: 1920*1080
+RGB Frame Rate: 30
+FOV: 87*58
+Depth Frame Rate: 90
+Lidar Model: RS-Helios-16p
+Channels: 16
+Range: 100m
+Power: 8W
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size: 11.6
+Display Model: super
+Battery Parameters: 24V/15Ah
+Battery External Power: 24V
+Battery Charging Time: 2H
+Assigned Student ID: Stu0010
+Assigned Student Name: 周辉翔
+---

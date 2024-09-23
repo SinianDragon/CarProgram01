@@ -481,7 +481,7 @@ void displayCars(const vector<Car>& cars) {
         cout << "Assigned Student Name: " << cars[current].assignedStudent.name << endl;
         cout << "----------------------------------------" << endl;
         // 导航提示
-        cout << "\n 按下p显示下一辆小车,按n则显示上一里辆小车: ";
+        cout << "\n 按下p显示下一辆小车,按n则显示上一里辆小车 ";
         char choice;
         cin >> choice;
         if(choice == 'n' || choice == 'N') {
