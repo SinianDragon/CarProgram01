@@ -39,7 +39,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0001
-Assigned Student Name: 张霞
+Assigned Student Name: 何军辉
 ---
 CarID: Carnum0000000000000002C
 ChassisID: Chasislnum00000002C
@@ -82,7 +82,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0002
-Assigned Student Name: 杨涛
+Assigned Student Name: 赵秀英
 ---
 CarID: Carnum0000000000000003D
 ChassisID: Chasislnum00000003D
@@ -125,7 +125,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0003
-Assigned Student Name: 陈伟
+Assigned Student Name: 何丽
 ---
 CarID: Carnum0000000000000004E
 ChassisID: Chasislnum00000004E
@@ -168,7 +168,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0004
-Assigned Student Name: 郭勇
+Assigned Student Name: 罗勇勇
 ---
 CarID: Carnum0000000000000005F
 ChassisID: Chasislnum00000005F
@@ -211,7 +211,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0005
-Assigned Student Name: 周涛
+Assigned Student Name: 郭佳玲
 ---
 CarID: Carnum0000000000000006G
 ChassisID: Chasislnum00000006G
@@ -254,7 +254,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0006
-Assigned Student Name: 陈刚军
+Assigned Student Name: 郭勇
 ---
 CarID: Carnum0000000000000007H
 ChassisID: Chasislnum00000007H
@@ -297,7 +297,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0007
-Assigned Student Name: 胡洋军
+Assigned Student Name: 何杰
 ---
 CarID: Carnum0000000000000008I
 ChassisID: Chasislnum00000008I
@@ -340,7 +340,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0008
-Assigned Student Name: 刘辉辉
+Assigned Student Name: 杨刚
 ---
 CarID: Carnum0000000000000009J
 ChassisID: Chasislnum00000009J
@@ -383,7 +383,7 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0009
-Assigned Student Name: 高涛
+Assigned Student Name: 胡刚
 ---
 CarID: Carnum0000000000000010K
 ChassisID: Chasislnum00000010K
@@ -426,5 +426,5 @@ Battery Parameters: 24V/15Ah
 Battery External Power: 24V
 Battery Charging Time: 2H
 Assigned Student ID: Stu0010
-Assigned Student Name: 周辉翔
+Assigned Student Name: 孙平
 ---

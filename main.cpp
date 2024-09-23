@@ -432,56 +432,57 @@ void displayCars(const vector<Car>& cars) {
     while(true) {
         system("cls");
         cout << "----------------------------------------" << endl;
-        cout << "Displaying Car " << (current +1) << " of " << cars.size() << endl;
-        cout << "CarID: " << cars[current].carID << endl;
-        cout << "ChassisID: " << cars[current].chassis.chassisID << endl;
-        cout << "Chassis Model: " << cars[current].chassis.model << endl;
-        cout << "Wheelbase: " << cars[current].chassis.wheelbase << endl;
-        cout << "Track Width: " << cars[current].chassis.trackWidth << endl;
-        cout << "Min Ground Clearance: " << cars[current].chassis.minGroundClearance << endl;
-        cout << "Min Turning Radius: " << cars[current].chassis.minTurningRadius << endl;
-        cout << "Drive Type: " << cars[current].chassis.driveType << endl;
-        cout << "Max Travel: " << cars[current].chassis.maxTravel << endl;
-        // Wheels
+        cout << "这是第 " << (current +1) << "辆车 共 " << cars.size() <<"辆车"<< endl;
+        cout << "车辆ID: " << cars[current].carID << endl;
+        cout << "底盘ID: " << cars[current].chassis.chassisID << endl;
+        cout << "底盘型号: " << cars[current].chassis.model << endl;
+        cout << "底盘轴距: " << cars[current].chassis.wheelbase << endl;
+        cout << "底盘轮距: " << cars[current].chassis.trackWidth << endl;
+        cout << "底盘最小离地间隙: " << cars[current].chassis.minGroundClearance << endl;
+        cout << "底盘最小转弯半径: " << cars[current].chassis.minTurningRadius << endl;
+        cout << "底盘驱动形式: " << cars[current].chassis.driveType << endl;
+        cout << "底盘最大行程: " << cars[current].chassis.maxTravel << endl;
+// 轮胎
         for(int i=0;i<cars[current].chassis.wheels.size();i++) {
-            cout << "Wheel" << (i+1) << " Model: " << cars[current].chassis.wheels[i].model << endl;
-            cout << "Wheel" << (i+1) << " Size: " << cars[current].chassis.wheels[i].size << endl;
+            cout << "轮胎" << (i+1) << " 型号: " << cars[current].chassis.wheels[i].model << endl;
+            cout << "轮胎" << (i+1) << " 尺寸: " << cars[current].chassis.wheels[i].size << endl;
         }
-        // AGX
-        cout << "AGX Model: " << cars[current].agx.model << endl;
+// AGX
+        cout << "AGX 型号: " << cars[current].agx.model << endl;
         cout << "AI: " << cars[current].agx.AI << endl;
-        cout << "CUDA Core: " << cars[current].agx.CUDA_core << endl;
-        cout << "Tensor CORE: " << cars[current].agx.Tensor_CORE << endl;
-        cout << "VRAM: " << cars[current].agx.VRAM << endl;
-        cout << "Storage: " << cars[current].agx.storage << endl;
-        // Camera
-        cout << "Camera Model: " << cars[current].camera.model << endl;
-        cout << "Camera: " << cars[current].camera.cameraModel << endl;
-        cout << "RGB Resolution: " << cars[current].camera.RGB_resolution << endl;
-        cout << "RGB Frame Rate: " << cars[current].camera.RGB_frameRate << endl;
-        cout << "FOV: " << cars[current].camera.FOV << endl;
-        cout << "Depth Frame Rate: " << cars[current].camera.depth_frameRate << endl;
-        // Lidar
-        cout << "Lidar Model: " << cars[current].lidar.model << endl;
-        cout << "Channels: " << cars[current].lidar.channels << endl;
-        cout << "Range: " << cars[current].lidar.range << endl;
-        cout << "Power: " << cars[current].lidar.power << endl;
-        // Gyroscope
-        cout << "Gyroscope Model: " << cars[current].gyro.model << endl;
-        cout << "Gyroscope Manufacturer: " << cars[current].gyro.manufacturer << endl;
-        // Display
-        cout << "Display Size: " << cars[current].display.size << endl;
-        cout << "Display Model: " << cars[current].display.model << endl;
-        // Battery
-        cout << "Battery Parameters: " << cars[current].battery.parameters << endl;
-        cout << "Battery External Power: " << cars[current].battery.externalPower << endl;
-        cout << "Battery Charging Time: " << cars[current].battery.chargingTime << endl;
-        // Assigned Student
-        cout << "Assigned Student ID: " << cars[current].assignedStudent.studentID << endl;
-        cout << "Assigned Student Name: " << cars[current].assignedStudent.name << endl;
+        cout << "CUDA 核心: " << cars[current].agx.CUDA_core << endl;
+        cout << "Tensor 核心: " << cars[current].agx.Tensor_CORE << endl;
+        cout << "显存: " << cars[current].agx.VRAM << endl;
+        cout << "存储: " << cars[current].agx.storage << endl;
+// 双目摄像头
+        cout << "双目摄像头型号: " << cars[current].camera.model << endl;
+        cout << "摄像头: " << cars[current].camera.cameraModel << endl;
+        cout << "RGB 分辨率: " << cars[current].camera.RGB_resolution << endl;
+        cout << "RGB 帧率: " << cars[current].camera.RGB_frameRate << endl;
+        cout << "FOV视场角: " << cars[current].camera.FOV << endl;
+        cout << "深度帧率: " << cars[current].camera.depth_frameRate << endl;
+// 多线激光雷达
+        cout << "多线激光雷达型号: " << cars[current].lidar.model << endl;
+        cout << "通道数: " << cars[current].lidar.channels << endl;
+        cout << "测试范围: " << cars[current].lidar.range << endl;
+        cout << "功率: " << cars[current].lidar.power << endl;
+// 9轴陀螺仪
+        cout << "9轴陀螺仪型号: " << cars[current].gyro.model << endl;
+        cout << "9轴陀螺仪厂家: " << cars[current].gyro.manufacturer << endl;
+// 显示屏
+        cout << "显示屏尺寸: " << cars[current].display.size << endl;
+        cout << "显示屏型号: " << cars[current].display.model << endl;
+// 电池
+        cout << "电池参数: " << cars[current].battery.parameters << endl;
+        cout << "电池对外供电: " << cars[current].battery.externalPower << endl;
+        cout << "电池充电时长: " << cars[current].battery.chargingTime << endl;
+// 分配的学生
+        cout << "分配的学生ID: " << cars[current].assignedStudent.studentID << endl;
+        cout << "分配的学生姓名: " << cars[current].assignedStudent.name << endl;
         cout << "----------------------------------------" << endl;
+
         // 导航提示
-        cout << "\n 按下p显示下一辆小车,按n则显示上一里辆小车 ";
+        cout << "\n 按下n显示下一辆小车,按p则显示上一里辆小车 ";
         char choice;
         cin >> choice;
         if(choice == 'n' || choice == 'N') {
